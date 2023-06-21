@@ -120,11 +120,11 @@ export default function Home() {
           </div>
           <TypeAnimation
             sequence={[
-              'I hope you be beautiful forever',
+              'I hope you be beautiful',
               1000,
-              'I hope you be happy forever',
+              'I hope you be happy',
               1000,
-              'I hope you be healthy forever',
+              'I hope you be healthy',
               1000,
               'I hope you be the one you want to be',
               1000
