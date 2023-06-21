@@ -33,7 +33,7 @@
   width: 100%;
   z-index: 2;
   position: relative;
-  padding: 50px;
+  padding: 25px;
   font-size: min(3.5vw, 22px);
   color: hsla(0, 0%, 100%, 0.9);
   font-weight: 500;

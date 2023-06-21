@@ -112,7 +112,7 @@ export default function Home() {
         <div className={styles.greeting}>
           <div
             style={{
-              marginBottom: '15px'
+              marginBottom: '10px'
             }}
           >
             {' '}
